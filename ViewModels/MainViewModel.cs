@@ -4,7 +4,7 @@ namespace SteppPlanChecker.ViewModels
 {
     public class MainViewModel : BindableBase
     {
-        private string _title = "ESAPIX Starter Application";
+        private string _title = "Stepp ESAPIX Starter Application";
         public string Title
         {
             get { return _title; }
